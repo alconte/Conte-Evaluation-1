@@ -1,0 +1,26 @@
+body {
+	border-style: solid;
+	border-color: rgb(43,84,126);
+	margin: 20px;
+	font-family: Arial, Verdana, sans-serif;
+	background-color: rgb(229,228,226);}
+h1 {
+	color: rgb(193,27,23) ;
+	margin: 20px;} 
+h2 {
+	color: rgb(193,27,23);
+	margin: 20px;}
+h3 {
+	color: rgb(43,84,126) ;
+	margin: 20px;}
+h4 {
+	color: rgb(125,84,42) ;
+	margin: 20px;}
+p {
+	margin: 20px;}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	with: 50%
+}
